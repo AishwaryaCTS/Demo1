@@ -1,0 +1,41 @@
+#my_title{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+#container1{
+    margin:20px 100px 30px 100px;
+}
+
+#label_query{
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    padding:10px 10px 10px 0px;
+    font-size:15px;
+    
+}
+
+
+
+#question{
+    display:inline;
+    width:70%;
+    height:100px; 
+
+    width:80%;
+    height:100px;
+    text-align: left;
+    vertical-align: top;
+}
+
+#submit{
+    display:inline;
+    margin:20px;
+}
+
+#answer{
+    margin:10px;
+    width:100%;
+    height:250px;
+    font-size:15px;
+}
